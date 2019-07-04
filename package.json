@@ -1,0 +1,29 @@
+{
+  "name": "create-teqfw-mod",
+  "version": "0.1.0",
+  "description": "Template to create modules for TeqFW based web application using npm.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-teqfw-mod": "bin/create-mod.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teqfw/create-teqfw-mod.git"
+  },
+  "keywords": [
+    "pet",
+    "project",
+    "hobby",
+    "web",
+    "applications",
+    "module"
+  ],
+  "author": "Alex Gusev <alex@flancer64.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/teqfw/create-teqfw-mod/issues"
+  },
+  "homepage": "https://github.com/teqfw/create-teqfw-mod#readme"
+}
