@@ -10,14 +10,15 @@ Template to create modules for TeqFW based web application using npm.
 
 TeqFW module has the following typical structure:
 
+- **./dev/**: development files;
 - **./doc/**: documentation files;
-- **./pub/**: client side startup files;
 - **./src/**: module sources;
 - **./test/**: test scripts for `./src/`;
-- **./index.js**: module's main script;
-- **./LICENSE**: GPL-3.0 or your own choice;
-- **./package.json**: `npm` module descriptor;
+- **./web/**: client side files;
+- **./LICENSE**: AGPL-3.0 or your own choice;
+- **./package.json**: `npm` package descriptor;
 - **./README.md**: module overview;
+- **./teqfw.json**: `teqfw` plugin descriptor;
 
 
 

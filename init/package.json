@@ -1,12 +1,10 @@
 {
-  "name": "teqfw-mod-sample",
+  "name": "@venodr/plugin",
   "version": "0.1.0",
-  "description": "Sample module for TeqFW based application.",
-  "main": "index.js",
+  "description": "Sample plugin for TeqFW based application.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "license": "GPL-3.0",
-  "dependencies": {},
-  "teqfw": {}
+  "license": "AGPL-3.0-only",
+  "dependencies": {}
 }
